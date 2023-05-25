@@ -1,6 +1,6 @@
 http://azarai.top/Algorithm-0-Sequential-Tables.html
-http://azarai.top/Algorithm-1-Quick-Sort.html
 http://azarai.top/Anaconda-Installation.html
+http://azarai.top/Algorithm-1-Quick-Sort.html
 http://azarai.top/Assembler-Jump-Instructions.html
 http://azarai.top/Breadboard-Usage.html
 http://azarai.top/CMake-1-Basic-Usage.html
