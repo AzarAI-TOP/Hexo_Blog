@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://azarai.top/Algorithm-2-Cycle-List.html</loc>
+    
+    <lastmod>2023-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-12.html</loc>
     
     <lastmod>2023-05-26</lastmod>
@@ -501,6 +510,13 @@
   
   <url>
     <loc>http://azarai.top/tags/Touchpad/</loc>
+    <lastmod>2023-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/tags/Cycle-List/</loc>
     <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

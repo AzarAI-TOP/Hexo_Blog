@@ -35,3 +35,4 @@ http://azarai.top/Upgarade-the-version-of-NodeJS.html
 http://azarai.top/Upgrade-Windows-10-to-11.html
 http://azarai.top/Xinput-Configuration-for-Three-finger-Touch.html
 http://azarai.top/STM32F407-Learning-Note-12.html
+http://azarai.top/Algorithm-2-Cycle-List.html
