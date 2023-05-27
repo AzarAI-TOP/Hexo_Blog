@@ -2,25 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://azarai.top/STM32F407-Learning-Note-8.html</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-9.html</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/STM32F407-Learning-Note-10.html</loc>
     
     <lastmod>2023-05-27</lastmod>
     
@@ -39,6 +21,24 @@
   
   <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-12.html</loc>
+    
+    <lastmod>2023-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note-8.html</loc>
+    
+    <lastmod>2023-05-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note-10.html</loc>
     
     <lastmod>2023-05-27</lastmod>
     
