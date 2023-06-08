@@ -4,7 +4,7 @@
   <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-13.html</loc>
     
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-06-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -394,6 +394,13 @@
   </url>
   
   <url>
+    <loc>http://azarai.top/tags/Cycle-List/</loc>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://azarai.top/tags/Python/</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -402,13 +409,6 @@
   
   <url>
     <loc>http://azarai.top/tags/Assembler/</loc>
-    <lastmod>2023-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/tags/Cycle-List/</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -655,13 +655,6 @@
   </url>
   
   <url>
-    <loc>http://azarai.top/categories/Windows/</loc>
-    <lastmod>2023-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://azarai.top/categories/Linux/Prettify/</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -676,7 +669,7 @@
   </url>
   
   <url>
-    <loc>http://azarai.top/categories/Windows/upgrade-10-to-11/</loc>
+    <loc>http://azarai.top/categories/Windows/</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -684,6 +677,13 @@
   
   <url>
     <loc>http://azarai.top/categories/Linux/Problems/</loc>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/categories/Windows/upgrade-10-to-11/</loc>
     <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
