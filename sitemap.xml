@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note-13.html</loc>
+    
+    <lastmod>2023-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/Windows-Fast-Boot-Linux-Mount-Error.html</loc>
+    
+    <lastmod>2023-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/Oh-my-zsh-Installation.html</loc>
+    
+    <lastmod>2023-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/Xinput-Configuration-for-Three-finger-Touch.html</loc>
+    
+    <lastmod>2023-06-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note-12.html</loc>
+    
+    <lastmod>2023-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note.html</loc>
+    
+    <lastmod>2023-05-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note-1.html</loc>
+    
+    <lastmod>2023-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-9.html</loc>
     
     <lastmod>2023-05-27</lastmod>
@@ -12,15 +75,6 @@
   
   <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-11.html</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/STM32F407-Learning-Note-12.html</loc>
     
     <lastmod>2023-05-27</lastmod>
     
@@ -56,25 +110,7 @@
   </url>
   
   <url>
-    <loc>http://azarai.top/STM32F407-Learning-Note.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://azarai.top/Anaconda-Installation.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/Xinput-Configuration-for-Three-finger-Touch.html</loc>
     
     <lastmod>2023-05-26</lastmod>
     
@@ -155,15 +191,6 @@
   </url>
   
   <url>
-    <loc>http://azarai.top/STM32F407-Learning-Note-1.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://azarai.top/STM32-Learning-Links.html</loc>
     
     <lastmod>2023-05-26</lastmod>
@@ -183,15 +210,6 @@
   
   <url>
     <loc>http://azarai.top/Python-Variable-Name.html</loc>
-    
-    <lastmod>2023-05-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/Oh-my-zsh-Installation.html</loc>
     
     <lastmod>2023-05-26</lastmod>
     
@@ -355,7 +373,7 @@
 
   <url>
     <loc>http://azarai.top/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -363,161 +381,161 @@
   
   <url>
     <loc>http://azarai.top/tags/Algorithm/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Sequential-Tables/</loc>
-    <lastmod>2023-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/tags/Cycle-List/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Python/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Assembler/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/tags/Cycle-List/</loc>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Firmware/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/CMake/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Hexo/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Render/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Prettifly/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/VSCode/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Linux/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Commands/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/sudo/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/NeuralNetwork/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/MNIST/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Markdown/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/NodeJS/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/STM32/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Develop-Environment/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/STM32F407/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Windows/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/tags/Touchpad/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -526,147 +544,147 @@
   
   <url>
     <loc>http://azarai.top/categories/Algorithm/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Python/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Assembler/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Firmware/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/CMake/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Hexo/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/VSCode/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Linux/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Machine-Learning/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Markdown/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/NodeJS/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/STM32/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Hexo/Prettify/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Linux/Commands/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Machine-Learning/NeuralNetwork/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Markdown/Math-Tokens/</loc>
-    <lastmod>2023-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/categories/Linux/Shell/</loc>
-    <lastmod>2023-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://azarai.top/categories/STM32/F407/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Windows/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://azarai.top/categories/Linux/Touchpad/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <loc>http://azarai.top/categories/Linux/Prettify/</loc>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/categories/STM32/F407/</loc>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://azarai.top/categories/Windows/upgrade-10-to-11/</loc>
-    <lastmod>2023-05-27</lastmod>
+    <lastmod>2023-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://azarai.top/categories/Linux/Problems/</loc>
+    <lastmod>2023-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
