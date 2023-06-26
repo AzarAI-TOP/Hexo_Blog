@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note-14.html</loc>
+    <lastmod>2023-06-20</lastmod>
+  </url>
+  <url>
+    <loc>http://azarai.top/STM32F407-Learning-Note.html</loc>
+    <lastmod>2023-06-09</lastmod>
+  </url>
+  <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-13.html</loc>
     <lastmod>2023-06-08</lastmod>
   </url>
@@ -18,10 +26,6 @@
   </url>
   <url>
     <loc>http://azarai.top/STM32F407-Learning-Note-12.html</loc>
-    <lastmod>2023-05-29</lastmod>
-  </url>
-  <url>
-    <loc>http://azarai.top/STM32F407-Learning-Note.html</loc>
     <lastmod>2023-05-29</lastmod>
   </url>
   <url>
